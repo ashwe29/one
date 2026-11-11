@@ -1357,7 +1357,7 @@
         // ============================================================
         const CATEGORIES = [
             { id: 'SmartPhones', name: 'SmartPhones', icon: 'fa-mobile-alt', count: 24 },
-            { id: 'laptops', name: 'Laptops', icon: 'fa-laptop', count: 18 },
+            { id: 'MacBook', name: 'MacBook', icon: 'fa-laptop', count: 18 },
             { id: 'clothing', name: 'Clothing', icon: 'fa-tshirt', count: 42 },
             { id: 'gadgets', name: 'Gadgets', icon: 'fa-headSmartPhones', count: 31 },
             { id: 'footwear', name: 'Footwear', icon: 'fa-shoe-prints', count: 27 },
@@ -1370,7 +1370,7 @@
                 category: 'SmartPhones' },
             { id: 2, title: 'MacBook Pro 14"', price: 1999, rating: 4, reviews: 86, badge: '',
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
-                category: 'Laptops' },
+                category: 'MacBook' },
             { id: 3, title: 'Apple Watch Series 8', price: 349, oldPrice: 399, rating: 5, reviews: 214, badge: 'Sale',
                 img: 'https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?auto=format&fit=crop&w=600&q=80',
                 category: 'Accessories' },
