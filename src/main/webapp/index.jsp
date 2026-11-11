@@ -1234,11 +1234,11 @@
                 </div>
                 <div class="deal-wrap">
                     <div class="deal-img">
-                        <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80" alt="MacBook Air M2" loading="lazy">
+                        <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80" alt="Laptops Air M2" loading="lazy">
                     </div>
                     <div class="deal-content">
                         <span class="tag"><i class="fas fa-bolt"></i> Limited Offer</span>
-                        <h3>MacBook Air M2</h3>
+                        <h3>Laptops Air M2</h3>
                         <p class="desc">Thin, light, and incredibly powerful — the M2 chip redefines performance.</p>
                         <div>
                             <span class="price-big">$999 <span class="old">$1,199</span></span>
@@ -1357,7 +1357,7 @@
         // ============================================================
         const CATEGORIES = [
             { id: 'SmartPhones', name: 'SmartPhones', icon: 'fa-mobile-alt', count: 24 },
-            { id: 'MacBook', name: 'MacBook', icon: 'fa-laptop', count: 18 },
+            { id: 'Laptops', name: 'Laptops', icon: 'fa-laptop', count: 18 },
             { id: 'clothing', name: 'Clothing', icon: 'fa-tshirt', count: 42 },
             { id: 'gadgets', name: 'Gadgets', icon: 'fa-headSmartPhones', count: 31 },
             { id: 'footwear', name: 'Footwear', icon: 'fa-shoe-prints', count: 27 },
@@ -1368,9 +1368,9 @@
             { id: 1, title: 'iPhone 14 Pro Max', price: 1099, oldPrice: 1199, rating: 5, reviews: 128, badge: 'New',
                 img: 'https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=600&q=80',
                 category: 'SmartPhones' },
-            { id: 2, title: 'MacBook Pro 14"', price: 1999, rating: 4, reviews: 86, badge: '',
+            { id: 2, title: 'Laptops Pro 14"', price: 1999, rating: 4, reviews: 86, badge: '',
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
-                category: 'MacBook' },
+                category: 'Laptops' },
             { id: 3, title: 'Apple Watch Series 8', price: 349, oldPrice: 399, rating: 5, reviews: 214, badge: 'Sale',
                 img: 'https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?auto=format&fit=crop&w=600&q=80',
                 category: 'Accessories' },
@@ -1413,7 +1413,7 @@
             name: 'James Wilson',
             role: 'Tech Enthusiast',
             avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=80&q=80',
-            text: 'Amazing prices on electronics. The M2 MacBook deal was unbeatable.',
+            text: 'Amazing prices on electronics. The M2 Laptops deal was unbeatable.',
             stars: 5
         }];
 
